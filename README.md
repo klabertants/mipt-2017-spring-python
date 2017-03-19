@@ -6,7 +6,6 @@ Tasks for an application programming course in Python.
 **[Website of the course.](http://atp-fivt.org/programmirovanie-na-yazyke-python/)**
 
 #### Home tasks:
-* [Blabla](Task 1)
-* [First task (Basic operators and data types. Compound operators. Functions.)](Task 1)
-* [Second task (Elements of functional programming. Dictionaries, tuples, sets. Files. Modules.)](Task 2)
-* [Third task (OOP Basics in Python.)](Task 3)
+* [First task. Basic operators and data types. Compound operators. Functions.](Task 1)
+* [Second task. Elements of functional programming. Dictionaries, tuples, sets. Files. Modules.](Task 2)
+* [Third task. OOP Basics in Python.)](Task 3)
