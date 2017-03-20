@@ -9,3 +9,4 @@ Tasks for an application programming course in Python.
 * [First task: Basic operators and data types. Compound operators. Functions.](/Task1)
 * [Second task: Elements of functional programming. Dictionaries, tuples, sets. Files. Modules.](/Task2)
 * [Third task: OOP Basics in Python.](/Task3)
+* [Fourth task: Modules, scripts, argparse. Error handling, exceptions.](/Task4)
